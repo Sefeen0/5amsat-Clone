@@ -156,6 +156,7 @@ a {
   div.nav {
     display: flex;
     z-index: 5;
+     padding: 15px 0 10px 0;
   }
 }
 @media (min-width: 992px) {
